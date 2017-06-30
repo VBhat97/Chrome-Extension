@@ -1,0 +1,29 @@
+body,html{
+	background-color: #4ABDAC;
+}
+
+#head1{
+	font-size: 100px;
+	color: #FC4A1A;
+}
+
+#head2{
+	font-size : 60px;
+	color: #F7B733;
+}
+
+#head3{
+	font-size: 30px;
+	color: #DFDCE3;
+}
+
+div{
+	padding-left: 0px;
+	padding-right: 0px;
+	width : 100%;
+}
+
+#image{
+	padding : 0px;
+	width: 100%;
+}
